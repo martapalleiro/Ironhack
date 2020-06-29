@@ -12,20 +12,20 @@
 
 
 ## Labs Week 1
-- [Git Conflict](https://github.com/albabalcells/lab-resolving-git-conflicts)
-- [Jupyter Notebook](https://github.com/albabalcells/lab-jupyter-notebook)
-- [Dicts, Sets & Tuples](https://github.com/albabalcells/lab-tuple-set-dict)
-- [Lambda Functions](https://github.com/albabalcells/lab-lambda-functions)
-- [List Comprehensions](https://github.com/albabalcells/lab-list-comprehensions)
-- [Intro to Numpy](https://github.com/albabalcells/lab-numpy)
-- [Map, Reduce & Filter](https://github.com/albabalcells/lab-map-reduce-filter)
-- [Project Week 1: Build your own game](https://github.com/albabalcells/Project-Week-1-Build-Your-Own-Game)
+- [Git Conflict]
+- [Jupyter Notebook]
+- [Dicts, Sets & Tuples]
+- [Lambda Functions]
+- [List Comprehensions]
+- [Intro to Numpy]
+- [Map, Reduce & Filter]
+- [Project Week 1: Build your own game]
 
 
 ## Labs Week 2
-- [Intro Pandas](https://github.com/albabalcells/lab-intro-pandas)
-- [Pandas Import Export](https://github.com/albabalcells/lab-import-export)
-- [Error Handling](https://github.com/albabalcells/lab-error-handling)
+- [Intro Pandas]
+- [Pandas Import Export]
+- [Error Handling]
 
 
 ## Labs Week 3
