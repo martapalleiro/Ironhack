@@ -38,8 +38,8 @@
 - [How to sort a dictionary by values in Python](http://thomas-cokelaer.info/blog/2017/12/how-to-sort-a-dictionary-by-values-in-python/)
 
 ### Functions (& Lambda)
-- [Slides](https://github.com/albabalcells/Ironhack/blob/master/Theory%20W1/CodeAlongs/Functions_lambda.ipynb)
-- [Code Along](https://github.com/albabalcells/Ironhack/blob/master/Theory%20W1/CodeAlongs/Functions_lambda_Guillem.ipynb)
+- [Slides](https://github.com/albabalcells/Ironhack/blob/master/Theory%20W1/Slides/3.%20Functions.pdf)
+- [Code Along](https://github.com/albabalcells/Ironhack/blob/master/Theory%20W1/CodeAlongs/Functions_lambda.ipynb)
 - [Lambda Expressions](https://docs.python.org/3/tutorial/controlflow.html#lambda-expressions)
 - [The Python zip Formula](https://docs.python.org/3.3/library/functions.html#zip)
 

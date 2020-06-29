@@ -23,6 +23,9 @@
 
 
 ## Labs Week 2
+- [Intro Pandas](https://github.com/albabalcells/lab-intro-pandas)
+- [Pandas Import Export](https://github.com/albabalcells/lab-import-export)
+- [Error Handling](https://github.com/albabalcells/lab-error-handling)
 
 
 ## Labs Week 3
